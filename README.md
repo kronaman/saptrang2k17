@@ -1,2 +1,2 @@
 # saptrang2k17
-Saptrang 2017 Website
+## Official Saptrang 2017, Website - NIT Delhi
